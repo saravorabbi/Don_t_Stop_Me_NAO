@@ -7,16 +7,14 @@ Simona Scala - simona.scala6@studio.unibo.it - 0001033460
 Sara Vorabbi - sara.vorabbi@studio.unibo.it - 0001026226
 
 #### Files
-- moves = folder containing the file of the dance moves
 - aima = folder containing aima's library files
+- moves = folder containing the file of the dance moves
+- music/bee_gees_stayin_alive.waw
+- NAO Challenge 2021 - presentation
 - planning_choreography.py
 - play_music.py
-- stop_music.py
 - README
 - requirements.txt
-- presentation.pdf
-- music/bee_gees_stayin_alive.waw
-
 
 #### Execution
 - Install python2.7 and python3.7 on your NAO Virtual Machine
