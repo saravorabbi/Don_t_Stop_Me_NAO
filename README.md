@@ -17,6 +17,8 @@ Sara Vorabbi - sara.vorabbi@studio.unibo.it - 0001026226
 - planning_choreography.py
 - play_music.py
 - README
+- demoDon_t_Stop_Me_NAO.mp4
+- choreoDon_t_Stop_Me_NAO.mp4
 - requirements.txt
 
 ### Execution
