@@ -2,11 +2,14 @@
 ###### Master of Artificial Intelligence - Fundamentals of Artificial Intelligence and Knowledge Representation
 
 **Team:** Don't Stop Me NAO
+
 **Team components:**
+
 Simona Scala - simona.scala6@studio.unibo.it - 0001033460
+
 Sara Vorabbi - sara.vorabbi@studio.unibo.it - 0001026226
 
-#### Files
+### Files
 - aima = folder containing aima's library files
 - moves = folder containing the file of the dance moves
 - music/bee_gees_stayin_alive.waw
@@ -16,7 +19,7 @@ Sara Vorabbi - sara.vorabbi@studio.unibo.it - 0001026226
 - README
 - requirements.txt
 
-#### Execution
+### Execution
 - Install python2.7 and python3.7 on your NAO Virtual Machine
 - Open a terminal inside the project folder "Don_t_Stop_Me_NAO" 
 - Prepare the virtual environment using the following command
@@ -31,26 +34,26 @@ Sara Vorabbi - sara.vorabbi@studio.unibo.it - 0001026226
 `$ python3.7 planning_choreography.py <nao_ip> <nao_port>`
 
 #### Mandatory moves
-Hello
-Sit
-SitRelax
-Stand
-StandZero
-Wipe Forehead
+1. Hello
+2. Sit
+3. SitRelax
+4. Stand
+5. StandZero
+6. Wipe Forehead
 
 #### Intermidiate moves
-Rotation Feet (x2)
-Arm Dance DX
-Arm Dance SX
-Birthday Dance
-Sprinkler 1
-Sprinkler 2
+1. Rotation Feet (x2)
+2. Arm Dance DX
+3. Arm Dance SX
+4. Birthday Dance
+5. Sprinkler 1
+6. Sprinkler 2
 
 #### Optional moves
-Blow Kisses
-Dance Move
-Disco
-Thriller Clap
-Thriller Arm Sideways
-Thriller Snap snap
-V On Eyes
+1. Blow Kisses
+2. Dance Move
+3. Disco
+4. Thriller Clap
+5. Thriller Arm Sideways
+6. Thriller Snap snap
+7. V On Eyes
