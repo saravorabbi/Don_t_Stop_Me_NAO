@@ -20,7 +20,7 @@ Sara Vorabbi - sara.vorabbi@studio.unibo.it - 0001026226
 - requirements.txt
 
 ### Execution
-- Install python2.7 and python3.7 on your NAO Virtual Machine
+- Install python2.7 and python3.7 on your NAO Virtual Machine. Set python3.7 as default version
 - Open a terminal inside the project folder "Don_t_Stop_Me_NAO" 
 - Prepare the virtual environment using the following command
 `$ python3.7 -m venv venv `
