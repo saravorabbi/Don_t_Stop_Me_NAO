@@ -5,9 +5,9 @@
 
 **Team components:**
 
-Simona Scala - simona.scala6@studio.unibo.it - 0001033460
+Simona Scala - simona.scala6@studio.unibo.it
 
-Sara Vorabbi - sara.vorabbi@studio.unibo.it - 0001026226
+Sara Vorabbi - sara.vorabbi@studio.unibo.it
 
 ### Files
 - aima = folder containing aima's library files
